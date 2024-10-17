@@ -117,7 +117,4 @@ me.say_hi()
 "I'm a relentless learner, always exploring the frontiers of AI and ML to bring innovative solutions to life! 🌟"
 </p>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-</p>
+
