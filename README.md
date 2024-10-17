@@ -58,7 +58,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-gudisa&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep Gudisa&theme=dark" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
