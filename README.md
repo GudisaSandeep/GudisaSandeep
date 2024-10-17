@@ -31,6 +31,7 @@ class SandeepGudisa:
 
 me = SandeepGudisa()
 me.say_hi()
+
 ```
 
 <h2 align="center">🚀 Technologies & Tools</h2>
@@ -54,37 +55,21 @@ me.say_hi()
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep-gudisa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GudisaSandeep&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep Gudisa&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudisaSandeep&theme=dark" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeep-gudisa&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GudisaSandeep&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<h2 align="center">🐍 Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://github.com/sandeep-gudisa/sandeep-gudisa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/sandeep-gudisa/awesome-ai-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeep-gudisa&repo=awesome-ai-project&theme=radical" alt="Awesome AI Project" />
-  </a>
-  <a href="https://github.com/sandeep-gudisa/genai-experiments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeep-gudisa&repo=genai-experiments&theme=radical" alt="GenAI Experiments" />
-  </a>
-</p>
-
-<h2 align="center">📚 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -92,10 +77,15 @@ me.say_hi()
 <h2 align="center">🎓 Certifications</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+  <img src="https://img.shields.io/badge/Infosys-007CC7?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/NPTEL-FF9933?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" />
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" />
   <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
+
+
 
 <h2 align="center">📫 Connect with me</h2>
 
@@ -114,16 +104,12 @@ me.say_hi()
   </a>
 </p>
 
-<h2 align="center">🎵 Vibing to</h2>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350" />
-</p>
 
 <h2 align="center">👀 Visitor Count</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sandeep-gudisa/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/GudisaSandeep/count.svg" alt="Visitor Count" />
 </p>
 
 <h2 align="center">🚀 One line that describes me best?</h2>
