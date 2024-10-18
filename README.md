@@ -1,108 +1,104 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hello, I'm Sandeep Gudisa!
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Deep+Learning+Practitioner;GenAI+Explorer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+# 💫 About Me:
+👋 Hi, I'm **Sandeep Gudisa**!  
+I’m an AI/ML/DL enthusiast and a student developer passionate about pushing the boundaries of technology with innovative solutions. I love working with computer vision, natural language processing, and deep learning to solve real-world problems. Currently, I’m exploring cutting-edge advancements in generative AI and machine learning.
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+---
 
-```python
-class SandeepGudisa:
-    def __init__(self):
-        self.name = "Sandeep Gudisa"
-        self.role = "Tech Enthusiast & Student"
-        self.language_spoken = ["Telugu", "English", "Hindi"]
-        self.code = ["Python", "JavaScript", "Java", "C#", "HTML", "CSS"]
-        self.ai_stack = ["TensorFlow", "PyTorch", "Scikit-learn", "NLTK", "OpenAI API"]
-        self.cloud = ["AWS", "GCP", "Azure"]
-        self.interests = ["AI", "ML", "DL", "GenAI", "Computer Vision", "NLP"]
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's innovate with AI and ML!")
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-gudisa) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UC0WPlcEIxRjoq7GOYa4gECg)
 
-me = SandeepGudisa()
-me.say_hi()
+</div>
 
-```
+---
 
-<h2 align="center">🚀 Technologies & Tools</h2> 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> 
-</p> 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> 
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> 
-</p> 
+<div align="center">
 
-<h2 align="center">📊 GitHub Stats</h2> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=GudisaSandeep&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudisaSandeep&theme=dark" alt="GitHub Streak" /> 
-</p> 
+## 🚀 My AI Projects:
 
-<h2 align="center">🏆 GitHub Trophies</h2> 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=GudisaSandeep&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" /> 
-</p> 
+### Universal Translator 🌐 
+Working on a **Universal Translator** that translates videos to any language in sync with audio for seamless communication. Aiming to submit this for the **Imagine Cup**.  
+Tech Stack: Azure, React Native, TensorFlow, Computer Vision
 
-<h2 align="center">🎓 Certifications</h2> 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" /> 
-  <img src="https://img.shields.io/badge/Infosys-007CC7?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys" /> 
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" /> 
-  <img src="https://img.shields.io/badge/NPTEL-FF9933?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" /> 
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" /> 
-  <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="Udacity" /> 
-</p> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="200" />
 
-<h2 align="center">🌐 Projects</h2> 
-<p align="center"> 
-  <a href="https://gudisasandeep.github.io/PortFolio/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Personal Portfolio" /> 
-  </a> 
-  <a href="https://jesunixai.netlify.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/JesunixAI-FF6F00?style=for-the-badge&logo=netlify&logoColor=white" alt="JesunixAI" /> 
-  </a> 
-</p> 
+---
 
-<h2 align="center">📫 Connect with me</h2> 
-<p align="center"> 
-  <a href="https://www.youtube.com/@AIProgrammingTelugu" target="_blank"> 
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> 
-  </a> 
-  <a href="https://www.linkedin.com/in/sandeep-gudisa/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
-  </a> 
-  <a href="mailto:gudisasandeep141312@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
-  </a> 
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> 
-  </a> 
-</p> 
+### Generative AI Project with NVIDIA 🧠 
+Building a **Generative AI Model** using **NVIDIA Workbench** for creative applications, leveraging large-scale data and deep learning techniques.
 
-<h2 align="center">👀 Visitor Count</h2> 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/GudisaSandeep/count.svg" alt="Visitor Count" /> 
-</p> 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="200" />
 
-<h2 align="center">🚀 One line that describes me best?</h2> 
-<p align="center"> "I'm a relentless learner, always exploring the frontiers of AI and ML to bring innovative solutions to life! 🌟" </p> 
+---
+
+### AI Assistant with Computer Vision and Speech Recognition 👁️🗣️ 
+Creating an **AI Assistant** using **Streamlit**, **OpenCV**, and **Speech Recognition**, that identifies objects and responds to voice commands with real-time feedback.
+
+
+
+---
+
+### Try Foocus AI Model 🌐 
+Showcasing the **Try Foocus AI Model** on YouTube, which can generate high-quality images for free using Colab.
+
+
+</div>
+
+---
+
+<div align="center">
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Stats:
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=GudisaSandeep&theme=radical&hide_border=false&include_all_commits=true&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GudisaSandeep&theme=radical&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GudisaSandeep&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=GudisaSandeep&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/GudisaSandeep)
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+# 🎉 Fun Facts:
+- 🎯 Random Quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+- 🔥 Fun Stat: Did you know that I've worked on over 20 AI/ML projects in the last year? 
+- 👀 Views count: ![Profile Views](https://komarev.com/ghpvc/?username=GudisaSandeep&color=blue)
+
+</div>
