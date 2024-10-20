@@ -15,7 +15,7 @@ I’m passionate about pushing the boundaries of technology with innovative solu
 # 🔥 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,react-native,nodejs,opencv,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,azure,tensorflow,pytorch,react,react-native,nodejs,opencv,docker,git,github" />
 </p>
 
 </div>
