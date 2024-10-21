@@ -91,6 +91,11 @@ I’m passionate about pushing the boundaries of technology with innovative solu
 
 ---
 
+
+# 🐍 Snake eating my contribution graph:
+![snake gif](https://github.com/GudisaSandeep/GudisaSandeep/blob/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
 
 # 🎉 Fun Facts
