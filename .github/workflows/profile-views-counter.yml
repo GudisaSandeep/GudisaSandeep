@@ -1,0 +1,14 @@
+name: Profile Views Counter
+on:
+  schedule:
+    - cron: '0 */24 * * *' # Runs every 24 hours
+  workflow_dispatch:
+
+jobs:
+  views-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: GudisaSandeep/views-counter@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
