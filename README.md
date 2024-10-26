@@ -38,10 +38,30 @@ class SandeepGudisa:
 
 </details>
 
-## 📊 GitHub Analytics
+## 📊 Contribution Timeline
+<!-- Contribution Timeline Section -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GudisaSandeep&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GudisaSandeep&layout=compact&langs_count=7&theme=radical"/>
+  
+![Snake animation](https://github.com/GudisaSandeep/GudisaSandeep/blob/output/github-contribution-grid-snake.svg)
+
+[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GudisaSandeep&custom_title=Contribution%20Timeline&hide_border=true&theme=react-dark&bg_color=0D1117&line=58A6FF&point=58A6FF&color=58A6FF)](https://github.com/GudisaSandeep)
+
+</div>
+
+## 🌟 Dynamic Stats Dashboard
+<div align="center">
+  
+<!-- GitHub Stats Cards with Animations -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GudisaSandeep&theme=radical" alt="Profile Details" class="stats-card" />
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GudisaSandeep&theme=radical" alt="Top Languages by Repo" class="stats-card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GudisaSandeep&theme=radical" alt="Top Languages by Commit" class="stats-card" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" class="contribution-calendar" />
+
 </div>
 
 ## 🏆 Achievements & Metrics
@@ -53,9 +73,6 @@ class SandeepGudisa:
 
 ### Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GudisaSandeep&theme=radical)](https://git.io/streak-stats)
-
-### Activity Graph
-[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GudisaSandeep&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -69,6 +86,12 @@ const currentProjects = {
 };
 ```
 
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building Cutting-Edge AI Solutions](https://yourdomain.com/blog1)
+- [Deep Learning in Computer Vision](https://yourdomain.com/blog2)
+- [The Future of Generative AI](https://yourdomain.com/blog3)
+<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
 <div align="center">
@@ -100,22 +123,3 @@ const currentProjects = {
 🌱 Contributing to open source
 ```
 </div>
-
-<!-- GitHub Action for Dynamic Content -->
-
-name: Latest blog posts workflow
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://yourblog.com/feed"
-          max_post_count: 3
