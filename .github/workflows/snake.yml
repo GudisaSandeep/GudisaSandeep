@@ -1,25 +1,30 @@
+# .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: GudisaSandeep
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main
-          message: 'Generate Snake Animation'
-          add: 'dist'
+          message: ':rocket: Generate Contribution Snake'
