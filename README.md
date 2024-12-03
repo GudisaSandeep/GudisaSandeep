@@ -37,9 +37,10 @@ class SandeepGudisa:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### AI Tools
-![Windsurf AI](https://img.shields.io/badge/Windsurf%20AI-4CAF50?style=for-the-badge&logo=ai&logoColor=white)  
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-FF5722?style=for-the-badge&logo=artificial-intelligence&logoColor=white)  
-![Bolt.new](https://img.shields.io/badge/Bolt.new-673AB7?style=for-the-badge&logo=bolt&logoColor=white)  
+![Windsurf AI](https://img.shields.io/badge/Windsurf%20AI-4CAF50?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_logo>&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-FF5722?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_logo>&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-673AB7?style=for-the-badge&logo=data:image/png;base64,<base64_encoded_logo>&logoColor=white)
+
 
 
 </details>
