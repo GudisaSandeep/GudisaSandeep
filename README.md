@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Welcome to Sandeep Gudisa's Tech Universe!
+# 👋 Welcome to My Profile
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Deep+Learning+Enthusiast;Computer+Vision+Expert;Tech+Innovation+Explorer)](https://git.io/typing-svg)
 
 </div>
